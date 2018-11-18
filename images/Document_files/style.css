@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child {
+    width: 33vw;
+    height: 50vh;
+    border: 1px solid black;
+}
+
+child1 {
+
+}
